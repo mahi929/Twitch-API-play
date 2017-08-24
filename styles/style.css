@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/d4/f9/13/d4f913f9e41416ce49b4f914e41a5e0e.jpg");
+    background-attachment: fixed;    
+}
+li {
+		font-size: 20px;
+        color: white;
+}
+.navHead {
+		font-size: 28px;
+}
+.navbar-custom {
+    
+    background-color: black;
+    opacity: 0.85;
+}
+span {
+    background-color: aliceblue;
+    opacity: 0.70;
+}
+
+.navbar-custom .navbar-nav > li >a{
+    color: white;
+}
+.ma {
+    margin-left: 10px;
+    padding-left: 5px;
+}
+.drop {
+    align-content: center;
+}
+
+.jumbotron {
+    padding-top: 50px;
+    background: rgb(200, 54, 54); /* This is for ie8 and below */
+    background: rgba(200, 54, 54, 0.5); 
+    color :#EFFAFA;
+}
+table {
+    color: white;
+}	
